@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BeerAdviser</string>
+    <string name="find_signal">Buscar señales!</string>
+    <string name="signals">No hay señal seleccionada</string>
+</resources>
